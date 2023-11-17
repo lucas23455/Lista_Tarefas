@@ -14,12 +14,12 @@ https://lista-tarefas-rose.vercel.app/
 </p>
 
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens
-
-
- HOME
+- Home
+ 
 ![image](https://github.com/lucas23455/Lista_Tarefas/assets/80688055/c739a3e7-f11a-46af-abd6-68789bf2965b) <br> <br>
 
 
+- Parte da Ediçao de Tarefas
 
- Parte da Ediçao de Tarefas
+
 ![image](https://github.com/lucas23455/Lista_Tarefas/assets/80688055/dbbe5603-5420-4a80-921f-cfd985b2aa43)
