@@ -1,5 +1,5 @@
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
-🔍  
+🔍 Esse projeto tem o intuito de lista suas tarefas do dia a dia , com a capacidade de excluir, editar e claro, riscar a tarefa como feito
 
 
 
