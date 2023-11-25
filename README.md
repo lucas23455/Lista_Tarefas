@@ -1,7 +1,10 @@
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
 
 
-![logo](https://github.com/lucas23455/Starbunks_Projeto/assets/80688055/d8a7749d-a731-40c4-bcc2-f69c74ef2b00)>
+![image](https://github.com/lucas23455/Starbunks_Projeto/assets/80688055/521c2e58-3cc1-45c9-9d80-4d41ce977f2f)
+
+
+
 Bem-vindo ao Starbunks, onde café e código se encontram! Este projeto representa a fusão perfeita entre design responsivo e a paixão pelo desenvolvimento web. Explore a experiência única que preparamos para você e mergulhe nos detalhes técnicos que tornam o Starbunks especial.
 
 
