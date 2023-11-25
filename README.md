@@ -1,5 +1,8 @@
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
-🔍 Esse projeto tem o intuito de lista suas tarefas do dia a dia , com a capacidade de excluir, editar e claro, riscar a tarefa como feito
+
+
+![logo](https://github.com/lucas23455/Starbunks_Projeto/assets/80688055/d8a7749d-a731-40c4-bcc2-f69c74ef2b00)>
+Bem-vindo ao Starbunks, onde café e código se encontram! Este projeto representa a fusão perfeita entre design responsivo e a paixão pelo desenvolvimento web. Explore a experiência única que preparamos para você e mergulhe nos detalhes técnicos que tornam o Starbunks especial.
 
 
 
@@ -16,10 +19,25 @@ https://lista-tarefas-rose.vercel.app/
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens
 - Home
  
-![image](https://github.com/lucas23455/Lista_Tarefas/assets/80688055/c739a3e7-f11a-46af-abd6-68789bf2965b) <br> <br>
+![image](https://github.com/lucas23455/Starbunks_Projeto/assets/80688055/23daade2-ec5e-4d2c-94dd-8f0ee2c7b8ba)
+
+- Shop
+
+![image](https://github.com/lucas23455/Starbunks_Projeto/assets/80688055/8f0121db-66e2-4709-b5eb-407df8a73d5c)
+
+- Delivery
+  
+![image](https://github.com/lucas23455/Starbunks_Projeto/assets/80688055/c10cc8fe-1cf3-4565-9695-0f3aecffd9cf)
+
+- App
+  
+![image](https://github.com/lucas23455/Starbunks_Projeto/assets/80688055/5b902d4a-605f-40df-b04f-0d5f430f82c7)  
+  
+- About and Contact
+  
+![image](https://github.com/lucas23455/Starbunks_Projeto/assets/80688055/65a910c5-24fb-496c-be0d-f5082d6259bf)
+quero deixar o logo da starbunks pequeno e centralzado
 
 
-- Parte da Ediçao de Tarefas
 
 
-![image](https://github.com/lucas23455/Lista_Tarefas/assets/80688055/dbbe5603-5420-4a80-921f-cfd985b2aa43)
